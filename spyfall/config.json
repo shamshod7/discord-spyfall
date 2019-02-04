@@ -2,10 +2,10 @@
     "discord":{
         "token": "728043027:AAHNK3S0W0Ebpt-VrZW18fklZlyr8rYjhEg",
         "trigger": "<Command_Trigger> Join -- join the game"
-"trigger": "<Command_Trigger> Leave -- leaves the game
-"trigger": "<Command_Trigger> Startgame -- starts the game, and displays a list of all locations
-"trigger": "<Command_Trigger> Players -- displays a list of people who are currently joined / playing
-"trigger": "<Command_Trigger> Purge -- wipes everyone from the user list
+        "trigger": "<Command_Trigger> Leave -- leaves the game"
+        "trigger": "<Command_Trigger> Startgame -- starts the game, and displays a list of all locations"
+        "trigger": "<Command_Trigger> Players -- displays a list of people who are currently joined / playing"
+        "trigger": "<Command_Trigger> Purge -- wipes everyone from the user list"
     },
     "other":{
         "debug": false
